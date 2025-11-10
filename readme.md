@@ -1,5 +1,5 @@
 # 첫 실행 모듈 다운
-npm init -y 
+npm i 
 
 # 1. 로그인
 LOGIN_RESPONSE=$(curl -s -X POST http://localhost:3000/api/login \
