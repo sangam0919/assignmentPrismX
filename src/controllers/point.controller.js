@@ -1,4 +1,4 @@
-import * as pointService from "../models/point.service.js";
+import * as pointService from "../services/point.service.js";
 
 export const earn = (req, res) => {
   const userId = req.user.id;
