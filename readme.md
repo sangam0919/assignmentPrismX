@@ -65,8 +65,6 @@ curl -X GET "http://localhost:3000/api/history" \
 -H "Authorization: Bearer $TOKEN"
 echo
 
-네, 알겠습니다. AI 느낌이 나지 않도록 이모티콘과 불필요한 수식어 없이 실무적인 README.md 파일로 다듬어 드릴게요. 기존 내용에 평가 기준을 충족시키는 핵심 섹션을 추가하여 최종 제출용 문서를 완성하겠습니다.API 명세는 GitHub에서 보기 좋게 Markdown 테이블 형식으로 깔끔하게 정리했습니다.README.md (제출 최종본)Markdown# 프리즘엑스 채용 과제: 간단 포인트 적립 API 서버
-
 ## 1. 프로젝트 개요
 
 본 프로젝트는 프리즘엑스 개발자 채용 사전 과제 A안인 '간단한 포인트 적립 API 서버 만들기' 요구사항을 기반으로 구축되었습니다.
